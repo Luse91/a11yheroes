@@ -1,0 +1,1110 @@
+/* screen - deals */
+
+.deals {
+  background-color: var(--white);
+  height: 926px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 428px;
+}
+
+.deals .top-C61RwL {
+  background-color: var(--tapa);
+  height: 92px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+
+.deals .store-1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: auto;
+}
+
+.deals .store-2-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 435px;
+  width: auto;
+}
+
+.deals .store-3-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 750px;
+  width: auto;
+}
+
+.deals .delivery-by-655-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 145px;
+  width: auto;
+}
+
+.deals .delivery-by-655-pm-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 460px;
+  width: auto;
+}
+
+.deals .delivery-by-655-pm-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 775px;
+  width: auto;
+}
+
+.deals .pickup-available-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: auto;
+}
+
+.deals .pickup-available-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.deals .pickup-available-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 795px;
+  width: auto;
+}
+
+.deals .product-C61RwL {
+  background-color: transparent;
+  height: 175px;
+  left: 20px;
+  position: absolute;
+  top: 199px;
+  width: 113px;
+}
+
+.deals .product-picture-hLsvm6 {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-hLsvm6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-WaMUI3 {
+}
+
+.deals .span1-WaMUI3 {
+}
+
+.deals .span2-WaMUI3 {
+  text-decoration: line-through;
+}
+
+.deals .product-name-hLsvm6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-hLsvm6 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-VMr6Om {
+  background-color: transparent;
+  height: 175px;
+  left: 21px;
+  position: absolute;
+  top: 514px;
+  width: 113px;
+}
+
+.deals .product-picture-x4ini4 {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-x4ini4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-WD5PUr {
+}
+
+.deals .span1-WD5PUr {
+}
+
+.deals .span2-WD5PUr {
+  text-decoration: line-through;
+}
+
+.deals .product-name-x4ini4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-x4ini4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-mzXdH9 {
+  background-color: transparent;
+  height: 175px;
+  left: 22px;
+  position: absolute;
+  top: 829px;
+  width: 113px;
+}
+
+.deals .product-picture-NdtBbI {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-NdtBbI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-5OV6It {
+}
+
+.deals .span1-5OV6It {
+}
+
+.deals .span2-5OV6It {
+  text-decoration: line-through;
+}
+
+.deals .product-name-NdtBbI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-NdtBbI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-QxM5SU {
+  background-color: transparent;
+  height: 175px;
+  left: 328px;
+  position: absolute;
+  top: 199px;
+  width: 113px;
+}
+
+.deals .product-picture-ZP2AvG {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-ZP2AvG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-W0ANdd {
+}
+
+.deals .span1-W0ANdd {
+}
+
+.deals .span2-W0ANdd {
+  text-decoration: line-through;
+}
+
+.deals .product-name-ZP2AvG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-ZP2AvG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-2P4qUJ {
+  background-color: transparent;
+  height: 175px;
+  left: 329px;
+  position: absolute;
+  top: 514px;
+  width: 113px;
+}
+
+.deals .product-picture-62uRVK {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-62uRVK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-CfuSdf {
+}
+
+.deals .span1-CfuSdf {
+}
+
+.deals .span2-CfuSdf {
+  text-decoration: line-through;
+}
+
+.deals .product-name-62uRVK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-62uRVK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-qr8e7q {
+  background-color: transparent;
+  height: 175px;
+  left: 330px;
+  position: absolute;
+  top: 829px;
+  width: 113px;
+}
+
+.deals .product-picture-nFlcZc {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-nFlcZc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .span0-V7qxEr {
+}
+
+.deals .span1-V7qxEr {
+}
+
+.deals .span2-V7qxEr {
+  text-decoration: line-through;
+}
+
+.deals .product-name-nFlcZc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-nFlcZc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .buy-3-save150-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 383px;
+  width: 89px;
+}
+
+.deals .buy-3-save150-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 187px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 698px;
+  width: 89px;
+}
+
+.deals .buy-3-save150-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1013px;
+  width: 89px;
+}
+
+.deals .product-J1YQmd {
+  background-color: transparent;
+  height: 175px;
+  left: 174px;
+  position: absolute;
+  top: 199px;
+  width: 113px;
+}
+
+.deals .product-picture-GZe8oM {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-GZe8oM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .product-name-GZe8oM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-GZe8oM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-a5WPlX {
+  background-color: transparent;
+  height: 175px;
+  left: 175px;
+  position: absolute;
+  top: 514px;
+  width: 113px;
+}
+
+.deals .product-picture-klLTAh {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-klLTAh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .product-name-klLTAh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-klLTAh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .product-HlKRTo {
+  background-color: transparent;
+  height: 175px;
+  left: 176px;
+  position: absolute;
+  top: 829px;
+  width: 113px;
+}
+
+.deals .product-picture-IzplLa {
+  background-color: var(--mist-gray);
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 113px;
+}
+
+.deals .x277-IzplLa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  width: 113px;
+}
+
+.deals .product-name-IzplLa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 113px;
+}
+
+.deals .specs-IzplLa {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  width: 113px;
+}
+
+.deals .cart-icon-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 363px;
+  position: absolute;
+  top: 13px;
+  width: 44px;
+}
+
+.deals .group-1-HASPlQ {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.deals .x0-HASPlQ {
+  background-color: transparent;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: auto;
+}
+
+.deals .deals-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: auto;
+}
+
+.deals .popular-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.deals .grocery-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.deals .alcohol-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 183px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.deals .household-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.deals .for-you-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: auto;
+}
+
+.deals .ebt-icon-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 382px;
+  position: absolute;
+  top: 145px;
+  width: 28px;
+}
+
+.deals .bicredit-card-2-back-ZOABcJ {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.deals .ebt-ZOABcJ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.deals .ebt-icon-VMr6Om {
+  background-color: transparent;
+  height: 36px;
+  left: 382px;
+  position: absolute;
+  top: 772px;
+  width: 28px;
+}
+
+.deals .bicredit-card-2-back-hnXCU9 {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.deals .ebt-hnXCU9 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: auto;
+}
+
+.deals .selection-C61RwL {
+  background-color: var(--white);
+  height: 2px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 90px;
+  width: 47px;
+}
+
+.deals .bottom-menu-C61RwL {
+  background-color: transparent;
+  height: 78px;
+  left: 0px;
+  position: absolute;
+  top: 848px;
+  width: 428px;
+}
+
+.deals .rectangle-21-oCqNiG {
+  background-color: var(--tapa);
+  height: 78px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+
+.deals .home-icon-oCqNiG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 56px;
+  left: 33px;
+  position: absolute;
+  top: 12px;
+  width: 51px;
+}
+
+.deals .home-o6YfcN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: auto;
+}
+
+.deals .vector-o6YfcN {
+  background-color: transparent;
+  height: 31px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.deals .pickup-icon-oCqNiG {
+  background-color: transparent;
+  height: 53px;
+  left: 138px;
+  position: absolute;
+  top: 15px;
+  width: 57px;
+}
+
+.deals .pickup-QpELgy {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: auto;
+}
+
+.deals .vector-QpELgy {
+  background-color: transparent;
+  height: 28px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.deals .deals-icon-oCqNiG {
+  background-color: transparent;
+  height: 56px;
+  left: 249px;
+  position: absolute;
+  top: 12px;
+  width: 47px;
+}
+
+.deals .deals-7kYmYo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: auto;
+}
+
+.deals .vector-7kYmYo {
+  background-color: transparent;
+  height: 31px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.deals .orders-icon-oCqNiG {
+  background-color: transparent;
+  height: 54px;
+  left: 350px;
+  position: absolute;
+  top: 14px;
+  width: 56px;
+}
+
+.deals .orders-5gexmp {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: auto;
+}
+
+.deals .orders-icon-5gexmp {
+  background-color: transparent;
+  height: 28px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}

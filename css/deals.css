@@ -1,1110 +1,717 @@
 /* screen - deals */
 
 .deals {
+  align-items: flex-end;
   background-color: var(--white);
+  display: flex;
+  flex-direction: column;
   height: 926px;
-  mix-blend-mode: normal;
   overflow: hidden;
-  overflow-x: hidden;
-  position: relative;
   width: 428px;
 }
 
-.deals .top-C61RwL {
+.deals .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 141px;
+  width: 428px;
+}
+
+.deals .overlap-group4 {
+  align-items: flex-end;
   background-color: var(--tapa);
+  display: flex;
   height: 92px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 428px;
+  justify-content: flex-end;
+  min-width: 428px;
+  padding: 0 17px;
 }
 
-.deals .store-1-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 19px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 120px;
-  width: auto;
+.deals .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 78px;
+  width: 49px;
 }
 
-.deals .store-2-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 435px;
-  width: auto;
-}
-
-.deals .store-3-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 21px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 750px;
-  width: auto;
-}
-
-.deals .delivery-by-655-pm-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 19px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 145px;
-  width: auto;
-}
-
-.deals .delivery-by-655-pm-VMr6Om {
-  background-color: transparent;
-  height: auto;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 460px;
-  width: auto;
-}
-
-.deals .delivery-by-655-pm-mzXdH9 {
-  background-color: transparent;
-  height: auto;
-  left: 21px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 775px;
-  width: auto;
-}
-
-.deals .pickup-available-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 19px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 165px;
-  width: auto;
-}
-
-.deals .pickup-available-VMr6Om {
-  background-color: transparent;
-  height: auto;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 480px;
-  width: auto;
-}
-
-.deals .pickup-available-mzXdH9 {
-  background-color: transparent;
-  height: auto;
-  left: 21px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 795px;
-  width: auto;
-}
-
-.deals .product-C61RwL {
-  background-color: transparent;
-  height: 175px;
-  left: 20px;
-  position: absolute;
-  top: 199px;
-  width: 113px;
-}
-
-.deals .product-picture-hLsvm6 {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-hLsvm6 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-WaMUI3 {
-}
-
-.deals .span1-WaMUI3 {
-}
-
-.deals .span2-WaMUI3 {
-  text-decoration: line-through;
-}
-
-.deals .product-name-hLsvm6 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-hLsvm6 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-VMr6Om {
-  background-color: transparent;
-  height: 175px;
-  left: 21px;
-  position: absolute;
-  top: 514px;
-  width: 113px;
-}
-
-.deals .product-picture-x4ini4 {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-x4ini4 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-WD5PUr {
-}
-
-.deals .span1-WD5PUr {
-}
-
-.deals .span2-WD5PUr {
-  text-decoration: line-through;
-}
-
-.deals .product-name-x4ini4 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-x4ini4 {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-mzXdH9 {
-  background-color: transparent;
-  height: 175px;
-  left: 22px;
-  position: absolute;
-  top: 829px;
-  width: 113px;
-}
-
-.deals .product-picture-NdtBbI {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-NdtBbI {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-5OV6It {
-}
-
-.deals .span1-5OV6It {
-}
-
-.deals .span2-5OV6It {
-  text-decoration: line-through;
-}
-
-.deals .product-name-NdtBbI {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-NdtBbI {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-QxM5SU {
-  background-color: transparent;
-  height: 175px;
-  left: 328px;
-  position: absolute;
-  top: 199px;
-  width: 113px;
-}
-
-.deals .product-picture-ZP2AvG {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-ZP2AvG {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-W0ANdd {
-}
-
-.deals .span1-W0ANdd {
-}
-
-.deals .span2-W0ANdd {
-  text-decoration: line-through;
-}
-
-.deals .product-name-ZP2AvG {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-ZP2AvG {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-2P4qUJ {
-  background-color: transparent;
-  height: 175px;
-  left: 329px;
-  position: absolute;
-  top: 514px;
-  width: 113px;
-}
-
-.deals .product-picture-62uRVK {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-62uRVK {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-CfuSdf {
-}
-
-.deals .span1-CfuSdf {
-}
-
-.deals .span2-CfuSdf {
-  text-decoration: line-through;
-}
-
-.deals .product-name-62uRVK {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-62uRVK {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-qr8e7q {
-  background-color: transparent;
-  height: 175px;
-  left: 330px;
-  position: absolute;
-  top: 829px;
-  width: 113px;
-}
-
-.deals .product-picture-nFlcZc {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-nFlcZc {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .span0-V7qxEr {
-}
-
-.deals .span1-V7qxEr {
-}
-
-.deals .span2-V7qxEr {
-  text-decoration: line-through;
-}
-
-.deals .product-name-nFlcZc {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-nFlcZc {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .buy-3-save150-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 186px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 383px;
-  width: 89px;
-}
-
-.deals .buy-3-save150-VMr6Om {
-  background-color: transparent;
-  height: auto;
-  left: 187px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 698px;
-  width: 89px;
-}
-
-.deals .buy-3-save150-mzXdH9 {
-  background-color: transparent;
-  height: auto;
-  left: 188px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 1013px;
-  width: 89px;
-}
-
-.deals .product-J1YQmd {
-  background-color: transparent;
-  height: 175px;
-  left: 174px;
-  position: absolute;
-  top: 199px;
-  width: 113px;
-}
-
-.deals .product-picture-GZe8oM {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-GZe8oM {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .product-name-GZe8oM {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-GZe8oM {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-a5WPlX {
-  background-color: transparent;
-  height: 175px;
-  left: 175px;
-  position: absolute;
-  top: 514px;
-  width: 113px;
-}
-
-.deals .product-picture-klLTAh {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-klLTAh {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .product-name-klLTAh {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-klLTAh {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .product-HlKRTo {
-  background-color: transparent;
-  height: 175px;
-  left: 176px;
-  position: absolute;
-  top: 829px;
-  width: 113px;
-}
-
-.deals .product-picture-IzplLa {
-  background-color: var(--mist-gray);
-  height: 110px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 113px;
-}
-
-.deals .x277-IzplLa {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 113px;
-  width: 113px;
-}
-
-.deals .product-name-IzplLa {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 137px;
-  width: 113px;
-}
-
-.deals .specs-IzplLa {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 161px;
-  width: 113px;
-}
-
-.deals .cart-icon-C61RwL {
-  background-color: transparent;
-  height: 18px;
-  left: 363px;
-  position: absolute;
-  top: 13px;
-  width: 44px;
-}
-
-.deals .group-1-HASPlQ {
-  background-color: transparent;
-  height: 18px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 20px;
-}
-
-.deals .x0-HASPlQ {
-  background-color: transparent;
-  height: auto;
-  left: 34px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 1px;
-  width: auto;
-}
-
-.deals .deals-C61RwL {
-  background-color: transparent;
+.deals .deals-1 {
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
-  font-style: normal;
   font-weight: 700;
-  height: auto;
-  left: 20px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 14px;
-  width: auto;
+  letter-spacing: 0;
+  margin-left: 1px;
+  min-height: 21px;
 }
 
-.deals .popular-C61RwL {
-  background-color: transparent;
+.deals .popular {
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
-  font-style: normal;
   font-weight: 700;
-  height: auto;
-  left: 19px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66px;
-  width: auto;
+  letter-spacing: 0;
+  margin-top: 31px;
+  min-height: 16px;
 }
 
-.deals .grocery-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 101px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66px;
-  width: auto;
-}
-
-.deals .alcohol-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 183px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66px;
-  width: auto;
-}
-
-.deals .household-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 263px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66px;
-  width: auto;
-}
-
-.deals .for-you-C61RwL {
-  background-color: transparent;
-  height: auto;
-  left: 364px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 66px;
-  width: auto;
-}
-
-.deals .ebt-icon-C61RwL {
-  background-color: transparent;
-  height: 36px;
-  left: 382px;
-  position: absolute;
-  top: 145px;
-  width: 28px;
-}
-
-.deals .bicredit-card-2-back-ZOABcJ {
-  background-color: transparent;
-  height: 24px;
-  left: 1px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 24px;
-}
-
-.deals .ebt-ZOABcJ {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 20px;
-  width: auto;
-}
-
-.deals .ebt-icon-VMr6Om {
-  background-color: transparent;
-  height: 36px;
-  left: 382px;
-  position: absolute;
-  top: 772px;
-  width: 28px;
-}
-
-.deals .bicredit-card-2-back-hnXCU9 {
-  background-color: transparent;
-  height: 24px;
-  left: 1px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 24px;
-}
-
-.deals .ebt-hnXCU9 {
-  background-color: transparent;
-  color: var(--black);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 20px;
-  width: auto;
-}
-
-.deals .selection-C61RwL {
+.deals .selection {
   background-color: var(--white);
   height: 2px;
-  left: 20px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 90px;
+  margin-left: 1px;
+  margin-top: 8px;
   width: 47px;
 }
 
-.deals .bottom-menu-C61RwL {
-  background-color: transparent;
-  height: 78px;
-  left: 0px;
-  position: absolute;
-  top: 848px;
-  width: 428px;
+.deals .grocery {
+  letter-spacing: 0;
+  margin-bottom: 10px;
+  margin-left: 33px;
+  min-height: 16px;
+  min-width: 49px;
 }
 
-.deals .rectangle-21-oCqNiG {
+.deals .alcohol {
+  letter-spacing: 0;
+  margin-bottom: 10px;
+  margin-left: 33px;
+  min-height: 16px;
+  min-width: 47px;
+}
+
+.deals .household {
+  letter-spacing: 0;
+  margin-bottom: 10px;
+  margin-left: 33px;
+  min-height: 16px;
+  min-width: 68px;
+}
+
+.deals .flex-col-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  margin-top: 3.0px;
+  min-height: 69px;
+  width: 48px;
+}
+
+.deals .cart-icon {
+  align-items: center;
+  display: flex;
+  height: 18px;
+  min-width: 44px;
+}
+
+.deals .group-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 18px;
+  width: 20px;
+}
+
+.deals .vector-2 {
+  height: 14px;
+  margin-right: 0;
+  width: 20px;
+}
+
+.deals .vector-container-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 3.0px;
+  margin-top: 1px;
+  min-width: 10px;
+}
+
+.deals .vector-3 {
+  height: 3px;
+  width: 3px;
+}
+
+.deals .vector-4 {
+  height: 3px;
+  margin-left: 4px;
+  width: 3px;
+}
+
+.deals .number {
+  letter-spacing: 0;
+  margin-bottom: 0;
+  margin-left: 14px;
+  min-height: 16px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.deals .for-you {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 35px;
+  min-height: 16px;
+}
+
+.deals .store-1 {
+  letter-spacing: 0;
+  margin-left: 19px;
+  margin-top: 28px;
+  min-height: 21px;
+}
+
+.deals .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 666px;
+  margin-right: -14px;
+  margin-top: 4px;
+  min-width: 423px;
+}
+
+.deals .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 666px;
+  width: 127px;
+}
+
+.deals .delivery-by-655-pm {
+  letter-spacing: 0;
+  min-height: 16px;
+}
+
+.deals .pickup-available {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 16px;
+}
+
+.deals .product {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  margin-top: 18px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .product-picture {
+  background-color: var(--mist-gray);
+  height: 110px;
+  width: 113px;
+}
+
+.deals .x277 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .span2 {
+  text-decoration: line-through;
+}
+
+.deals .product-name {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .specs {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 14px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .store-2 {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 61px;
+  min-height: 21px;
+}
+
+.deals .flex-col-item {
+  letter-spacing: 0;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 16px;
+}
+
+.deals .product-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  margin-top: 18px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .x277-1 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-1 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .store-3 {
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 61px;
+  min-height: 21px;
+}
+
+.deals .flex-col-item-1 {
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 4px;
+  min-height: 16px;
+}
+
+.deals .flex-col-4 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 31.0px;
+  margin-left: 28px;
+  min-height: 527px;
+  width: 114px;
+}
+
+.deals .product-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .price {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-2 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .buy-3-save150 {
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 9px;
+  min-height: 28px;
+  text-align: center;
+  width: 89px;
+}
+
+.deals .product-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 103px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .price-1 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-3 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .buy-3-save150-1 {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 9px;
+  min-height: 28px;
+  text-align: center;
+  width: 89px;
+}
+
+.deals .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 663px;
+  width: 114px;
+}
+
+.deals .overlap-group1 {
+  height: 36px;
+  margin-left: 20.0px;
+  position: relative;
+  width: 26px;
+}
+
+.deals .bicredit-card-2-back {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.deals .vector-container {
+  height: 18px;
+  position: relative;
+  width: 24px;
+}
+
+.deals .vector {
+  height: 4px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.deals .vector-1 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.deals .ebt {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+}
+
+.deals .product-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  margin-top: 18px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .x277-2 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-4 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 140px;
+  min-height: 175px;
+  width: 113px;
+}
+
+.deals .x277-3 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-5 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .overlap-group2 {
+  height: 36px;
+  margin-left: 20.0px;
+  margin-top: 83px;
+  position: relative;
+  width: 26px;
+}
+
+.deals .ebt-1 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+}
+
+.deals .flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: -15px;
+  margin-top: 18px;
+  min-height: 212px;
+  width: 443px;
+}
+
+.deals .overlap-group3 {
+  height: 175px;
+  position: relative;
+  width: 443px;
+}
+
+.deals .product-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 22px;
+  min-height: 175px;
+  position: absolute;
+  top: 0;
+  width: 113px;
+}
+
+.deals .x277-4 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-6 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 330px;
+  min-height: 175px;
+  position: absolute;
+  top: 0;
+  width: 113px;
+}
+
+.deals .x277-5 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-7 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 176px;
+  min-height: 175px;
+  position: absolute;
+  top: 0;
+  width: 113px;
+}
+
+.deals .price-2 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .product-name-8 {
+  letter-spacing: 0;
+  margin-top: 3px;
+  min-height: 21px;
+  text-align: center;
+  width: 113px;
+}
+
+.deals .bottom-menu {
+  align-items: flex-end;
   background-color: var(--tapa);
+  display: flex;
   height: 78px;
-  left: 0px;
-  mix-blend-mode: normal;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 428px;
+  padding: 10px 22px;
   position: absolute;
-  top: 0px;
-  width: 428px;
+  top: 19px;
 }
 
-.deals .home-icon-oCqNiG {
-  background-color: transparent;
+.deals .home-icon {
+  align-items: center;
   cursor: pointer;
-  height: 56px;
-  left: 33px;
-  position: absolute;
-  top: 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 56px;
   width: 51px;
 }
 
-.deals .home-o6YfcN {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 35px;
-  width: auto;
-}
-
-.deals .vector-o6YfcN {
-  background-color: transparent;
+.deals .vector-5 {
   height: 31px;
-  left: 9px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
+  margin-right: 1.0px;
   width: 32px;
 }
 
-.deals .pickup-icon-oCqNiG {
-  background-color: transparent;
-  height: 53px;
-  left: 138px;
-  position: absolute;
-  top: 15px;
+.deals .place {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 4px;
+  min-height: 21px;
+  min-width: 49px;
+  text-align: center;
+}
+
+.deals .pickup-icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 53px;
   width: 57px;
 }
 
-.deals .pickup-QpELgy {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 32px;
-  width: auto;
-}
-
-.deals .vector-QpELgy {
-  background-color: transparent;
+.deals .vector-6 {
   height: 28px;
-  left: 12px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
+  margin-right: 2.0px;
   width: 31px;
 }
 
-.deals .deals-icon-oCqNiG {
-  background-color: transparent;
-  height: 56px;
-  left: 249px;
-  position: absolute;
-  top: 12px;
+.deals .pickup {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 4px;
+  min-height: 21px;
+  min-width: 55px;
+  text-align: center;
+}
+
+.deals .deals-icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 56px;
   width: 47px;
 }
 
-.deals .deals-7kYmYo {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 35px;
-  width: auto;
-}
-
-.deals .vector-7kYmYo {
-  background-color: transparent;
+.deals .vector-7 {
   height: 31px;
-  left: 7px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
+  margin-right: 2.0px;
   width: 31px;
 }
 
-.deals .orders-icon-oCqNiG {
-  background-color: transparent;
-  height: 54px;
-  left: 350px;
-  position: absolute;
-  top: 14px;
+.deals .deals-2 {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 4px;
+  min-height: 21px;
+  min-width: 45px;
+  text-align: center;
+}
+
+.deals .orders-icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 54px;
   width: 56px;
 }
 
-.deals .orders-5gexmp {
-  background-color: transparent;
-  height: auto;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: center;
-  top: 33px;
-  width: auto;
+.deals .orders-icon-1 {
+  height: 28px;
+  margin-right: 3.0px;
+  width: 31px;
 }
 
-.deals .orders-icon-5gexmp {
-  background-color: transparent;
-  height: 28px;
-  left: 11px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 31px;
+.deals .orders {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 5px;
+  min-height: 21px;
+  min-width: 54px;
+  text-align: center;
+}
+
+.deals .buy-3-save150-2 {
+  letter-spacing: 0;
+  margin-left: 22.0px;
+  margin-top: 9px;
+  min-height: 28px;
+  text-align: center;
+  width: 89px;
 }

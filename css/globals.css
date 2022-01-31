@@ -1,21 +1,9 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900,300,500");
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
 @import url("https://px.animaapp.com/61f5560aacfbef953e9c8f6c.61f5560c8ffd2f4705c65007.YBeVaCp.hcp.png");
-
-.screen textarea:focus,
-.screen input:focus {
-  outline: none;
-}
-
-.screen * {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-.screen div {
-  -webkit-text-size-adjust: none;
-}
 
 .screen a {
   display: contents;
